@@ -1,0 +1,8 @@
+{
+  "name": "nodeserver",
+  "version": "0.0.1",
+  "description": "node server",
+  "dependencies": {
+    "socket.io": "^1.2.0"
+  }
+}
